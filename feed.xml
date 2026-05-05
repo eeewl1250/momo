@@ -3,7 +3,7 @@
     <title>桃の応援団</title>
     <link href="https://eeewl1250.github.io/momo/feed.xml" rel="self" />
     <link href="https://eeewl1250.github.io/momo" />
-    <updated>2026-05-05T23:00:09+09:00</updated>
+    <updated>2026-05-06T00:30:54+09:00</updated>
     <author>
         <name>イチゴジャム</name>
     </author>
@@ -106,10 +106,7 @@
 <td style="width: 99.841%;">映画「ドットハック」プロモーションムービー（再掲載）</td>
 </tr>
 <tr>
-<td style="width: 99.841%;">
-<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls">
-<source src="E:\日娱\松坂桃李\バラエティー番組\news\11..hack\プロモーションムービー.mp4" type="video/mp4" /></video></figure>
-</td>
+<td style="width: 99.841%;"><div class="post__iframe"><iframe loading="lazy" width="426" height="240" src="https://vkvideo.ru/video_ext.php?oid=-238407985&amp;id=456239017&amp;hash=b25e77c9c748e0e6" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></td>
 </tr>
 </tbody>
 </table>
